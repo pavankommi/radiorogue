@@ -1,0 +1,65 @@
+{
+  "@types/node": {
+    "current": "20.19.12",
+    "wanted": "20.19.12",
+    "latest": "24.3.0",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/@types/node"
+  },
+  "@types/react": {
+    "current": "18.3.24",
+    "wanted": "18.3.24",
+    "latest": "19.1.12",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/@types/react"
+  },
+  "@types/react-dom": {
+    "current": "18.3.7",
+    "wanted": "18.3.7",
+    "latest": "19.1.9",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/@types/react-dom"
+  },
+  "eslint": {
+    "current": "8.57.1",
+    "wanted": "8.57.1",
+    "latest": "9.34.0",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/eslint"
+  },
+  "eslint-config-next": {
+    "current": "14.2.5",
+    "wanted": "14.2.5",
+    "latest": "15.5.2",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/eslint-config-next"
+  },
+  "next": {
+    "current": "14.2.32",
+    "wanted": "14.2.32",
+    "latest": "15.5.2",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/next"
+  },
+  "react": {
+    "current": "18.3.1",
+    "wanted": "18.3.1",
+    "latest": "19.1.1",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/react"
+  },
+  "react-dom": {
+    "current": "18.3.1",
+    "wanted": "18.3.1",
+    "latest": "19.1.1",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/react-dom"
+  },
+  "tailwindcss": {
+    "current": "3.4.17",
+    "wanted": "3.4.17",
+    "latest": "4.1.12",
+    "dependent": "radiorogue-frontend",
+    "location": "/Users/pavankommi/Repo/radiorogue/radiorogue-frontend/node_modules/tailwindcss"
+  }
+}

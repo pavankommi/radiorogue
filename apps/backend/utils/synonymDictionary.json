@@ -1,0 +1,519 @@
+{
+    "football": [
+        "soccer",
+        "game",
+        "match"
+    ],
+    "quarterback": [
+        "qb",
+        "signal-caller",
+        "play-caller"
+    ],
+    "running back": [
+        "rb",
+        "halfback",
+        "ball carrier"
+    ],
+    "goal": [
+        "score",
+        "point",
+        "net"
+    ],
+    "match": [
+        "game",
+        "fixture",
+        "contest"
+    ],
+    "win": [
+        "victory",
+        "triumph",
+        "conquer"
+    ],
+    "lose": [
+        "defeat",
+        "failure",
+        "fall"
+    ],
+    "draw": [
+        "tie",
+        "deadlock",
+        "stalemate"
+    ],
+    "coach": [
+        "manager",
+        "trainer",
+        "instructor"
+    ],
+    "player": [
+        "athlete",
+        "competitor",
+        "contestant"
+    ],
+    "tournament": [
+        "competition",
+        "championship",
+        "league"
+    ],
+    "stadium": [
+        "arena",
+        "ground",
+        "field"
+    ],
+    "basketball": [
+        "hoops",
+        "court game",
+        "b-ball"
+    ],
+    "goalkeeper": [
+        "goalie",
+        "netkeeper",
+        "keeper"
+    ],
+    "defense": [
+        "backline",
+        "guard",
+        "defensive unit"
+    ],
+    "offense": [
+        "attack",
+        "forward line",
+        "offensive unit"
+    ],
+    "injury": [
+        "hurt",
+        "wound",
+        "harm"
+    ],
+    "penalty": [
+        "foul",
+        "punishment",
+        "violation"
+    ],
+    "substitute": [
+        "reserve",
+        "replacement",
+        "backup"
+    ],
+    "home run": [
+        "hit",
+        "score",
+        "long ball"
+    ],
+    "foul": [
+        "violation",
+        "infringement",
+        "offense"
+    ],
+    "stocks": [
+        "shares",
+        "equities",
+        "securities"
+    ],
+    "market": [
+        "exchange",
+        "bourse",
+        "trading floor"
+    ],
+    "investment": [
+        "capital injection",
+        "funding",
+        "asset allocation"
+    ],
+    "money": [
+        "cash",
+        "capital",
+        "funds",
+        "currency"
+    ],
+    "profit": [
+        "earnings",
+        "income",
+        "gain"
+    ],
+    "loss": [
+        "deficit",
+        "debt",
+        "shortfall"
+    ],
+    "loan": [
+        "credit",
+        "debt",
+        "borrowing"
+    ],
+    "interest": [
+        "yield",
+        "return",
+        "rate"
+    ],
+    "bank": [
+        "financial institution",
+        "lender",
+        "creditor"
+    ],
+    "dividend": [
+        "payout",
+        "distribution",
+        "share of profits"
+    ],
+    "inflation": [
+        "price increase",
+        "cost rise",
+        "depreciation"
+    ],
+    "revenue": [
+        "income",
+        "turnover",
+        "sales"
+    ],
+    "economy": [
+        "market",
+        "financial system",
+        "economic landscape"
+    ],
+    "stock market": [
+        "equity market",
+        "shares market",
+        "bourse"
+    ],
+    "capital": [
+        "funds",
+        "assets",
+        "wealth"
+    ],
+    "currency": [
+        "money",
+        "cash",
+        "fiat"
+    ],
+    "cryptocurrency": [
+        "crypto",
+        "digital currency",
+        "virtual currency"
+    ],
+    "smartphone": [
+        "mobile",
+        "cellphone",
+        "handset"
+    ],
+    "laptop": [
+        "notebook",
+        "portable computer",
+        "pc"
+    ],
+    "app": [
+        "application",
+        "software",
+        "program"
+    ],
+    "AI": [
+        "artificial intelligence",
+        "machine learning",
+        "deep learning"
+    ],
+    "robot": [
+        "automaton",
+        "machine",
+        "android"
+    ],
+    "cloud": [
+        "cloud computing",
+        "cloud storage",
+        "virtual server"
+    ],
+    "data": [
+        "information",
+        "records",
+        "details"
+    ],
+    "security": [
+        "protection",
+        "cybersecurity",
+        "safeguard"
+    ],
+    "device": [
+        "gadget",
+        "equipment",
+        "tool"
+    ],
+    "update": [
+        "upgrade",
+        "patch",
+        "new version"
+    ],
+    "download": [
+        "install",
+        "retrieve",
+        "get"
+    ],
+    "bug": [
+        "glitch",
+        "error",
+        "issue"
+    ],
+    "network": [
+        "system",
+        "internet",
+        "connection"
+    ],
+    "browser": [
+        "web browser",
+        "internet navigator",
+        "client"
+    ],
+    "coding": [
+        "programming",
+        "development",
+        "scripting"
+    ],
+    "AI model": [
+        "machine learning model",
+        "algorithm",
+        "neural network"
+    ],
+    "blockchain": [
+        "distributed ledger",
+        "crypto ledger",
+        "decentralized database"
+    ],
+    "app store": [
+        "play store",
+        "marketplace",
+        "app marketplace"
+    ],
+    "movie": [
+        "film",
+        "motion picture",
+        "cinema"
+    ],
+    "actor": [
+        "performer",
+        "thespian",
+        "star"
+    ],
+    "director": [
+        "filmmaker",
+        "producer",
+        "movie-maker"
+    ],
+    "celebrity": [
+        "star",
+        "public figure",
+        "influencer"
+    ],
+    "TV show": [
+        "television series",
+        "program",
+        "series"
+    ],
+    "episode": [
+        "installment",
+        "part",
+        "segment"
+    ],
+    "season": [
+        "series",
+        "installment",
+        "set of episodes"
+    ],
+    "release": [
+        "launch",
+        "premiere",
+        "debut"
+    ],
+    "blockbuster": [
+        "hit",
+        "box office success",
+        "smash hit"
+    ],
+    "award": [
+        "prize",
+        "honor",
+        "recognition"
+    ],
+    "concert": [
+        "live show",
+        "performance",
+        "gig"
+    ],
+    "album": [
+        "record",
+        "music album",
+        "collection"
+    ],
+    "song": [
+        "track",
+        "tune",
+        "single"
+    ],
+    "festival": [
+        "event",
+        "celebration",
+        "gala"
+    ],
+    "premiere": [
+        "debut",
+        "opening",
+        "first showing"
+    ],
+    "show": [
+        "performance",
+        "production",
+        "display"
+    ],
+    "comedy": [
+        "sitcom",
+        "funny show",
+        "humor series"
+    ],
+    "news": [
+        "report",
+        "update",
+        "headline",
+        "story"
+    ],
+    "journalist": [
+        "reporter",
+        "correspondent",
+        "editor"
+    ],
+    "interview": [
+        "discussion",
+        "chat",
+        "talk"
+    ],
+    "breaking news": [
+        "latest news",
+        "current event",
+        "emergency report"
+    ],
+    "press": [
+        "media",
+        "news agency",
+        "news organization"
+    ],
+    "editor": [
+        "publisher",
+        "curator",
+        "news manager"
+    ],
+    "headline": [
+        "title",
+        "main story",
+        "lead"
+    ],
+    "investigation": [
+        "probe",
+        "inquiry",
+        "examination"
+    ],
+    "poll": [
+        "survey",
+        "questionnaire",
+        "sampling"
+    ],
+    "debate": [
+        "discussion",
+        "argument",
+        "controversy"
+    ],
+    "speech": [
+        "address",
+        "talk",
+        "statement"
+    ],
+    "scandal": [
+        "controversy",
+        "affair",
+        "outrage"
+    ],
+    "lawsuit": [
+        "legal case",
+        "litigation",
+        "claim"
+    ],
+    "crime": [
+        "offense",
+        "felony",
+        "wrongdoing"
+    ],
+    "victory": [
+        "win",
+        "triumph",
+        "success"
+    ],
+    "crisis": [
+        "emergency",
+        "disaster",
+        "catastrophe"
+    ],
+    "protest": [
+        "demonstration",
+        "march",
+        "rally"
+    ],
+    "fashion": [
+        "style",
+        "trend",
+        "vogue"
+    ],
+    "designer": [
+        "fashion designer",
+        "couturier",
+        "stylist"
+    ],
+    "outfit": [
+        "attire",
+        "ensemble",
+        "garment"
+    ],
+    "runway": [
+        "catwalk",
+        "fashion show",
+        "presentation"
+    ],
+    "makeup": [
+        "cosmetics",
+        "beauty products",
+        "face paint"
+    ],
+    "haircut": [
+        "hairstyle",
+        "trim",
+        "hairdo"
+    ],
+    "clothing": [
+        "apparel",
+        "garments",
+        "attire"
+    ],
+    "brand": [
+        "label",
+        "designer",
+        "fashion house"
+    ],
+    "model": [
+        "fashion model",
+        "catwalk star",
+        "mannequin"
+    ],
+    "trend": [
+        "fad",
+        "craze",
+        "popular style"
+    ],
+    "shoe": [
+        "footwear",
+        "sneaker",
+        "boot"
+    ],
+    "jewelry": [
+        "accessories",
+        "adornments",
+        "ornaments"
+    ],
+    "luxury": [
+        "high-end",
+        "premium",
+        "exclusive"
+    ]
+}
