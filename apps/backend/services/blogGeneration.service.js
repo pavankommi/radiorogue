@@ -27,7 +27,7 @@ const createCompositeTextFromTitles = (data, type) => {
 const blogPrompt = (trend) => `
 Write a blog post based on the following content: "${JSON.stringify(trend)}".
 - If the topic is sensitive (e.g., deaths, accidents, disasters, serious illnesses, tragic events, mental health issues, sexual violence, human rights violations), ensure the tone is bold, confident, and empathetic—balancing respect with impactful delivery.
-- The tone should be **direct, bold, unfiltered, and a bit explicit**, reflecting the voice of "RadioRogue". Don’t be afraid to push boundaries with sharp, cheeky language—drop in a few **explicit phrases** or **adult innuendos** to add bite, but keep it smart and clever.
+- The tone should be **direct, bold, unfiltered, and a bit explicit**, reflecting the voice of "Radiorogue". Don't be afraid to push boundaries with sharp, cheeky language—drop in a few **explicit phrases** or **adult innuendos** to add bite, but keep it smart and clever.
 - The writing should feel **confident, in-your-face, and a bit provocative**—designed to grab attention and hold it. Don't shy away from throwing in a bit of **dark humor or adult references**, but make sure the tone stays engaging and not overly vulgar.
 - Optimize the content for SEO by naturally weaving high-traffic keywords into headings (h2, h3), summaries, and content. Use organic, keyword-rich headings and ensure the content remains engaging while boosting search rankings.
 - Ensure content and tldr is provided in **RAW HTML format** (excluding HTML tags, the total word count should be between **500–1000 words**). Break the content into **well-developed, digestible sections** with organic headings (h2, h3).
@@ -51,7 +51,7 @@ Return the response as a JSON object with the following structure:
   "shortSummary": "<A brief, SEO-friendly summary of the blog>",
   "tldr": "<RAW HTML including concise summaries with important SEO keywords>",
   "metaDescription": "<A compelling SEO-friendly meta description (150–160 characters) with primary keywords>",
-  "articleAuthor": "RadioRogue AI",
+  "articleAuthor": "Radiorogue AI",
   "source": "<source of the content>",
   "content": "<RAW HTML of the content (ensure word count between 500-1000) with a 'Read More' section at the end including 3-5 links>",
   "status": "published",

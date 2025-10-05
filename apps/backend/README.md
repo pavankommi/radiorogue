@@ -1,7 +1,7 @@
-RadioRogue Backend
+Radiorogue Backend
 ==================
 
-This is the backend repository for **RadioRogue**, a bold and unfiltered blog platform. The backend is responsible for managing APIs, real-time data processing, AI-based content generation, and database operations, ensuring a seamless and efficient experience for the frontend.
+This is the backend repository for **Radiorogue**, a bold and unfiltered blog platform. The backend is responsible for managing APIs, real-time data processing, AI-based content generation, and database operations, ensuring a seamless and efficient experience for the frontend.
 
 * * * * *
 

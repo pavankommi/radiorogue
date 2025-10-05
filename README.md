@@ -1,4 +1,4 @@
-# RadioRogue Monorepo
+# Radiorogue Monorepo
 
 AI-powered news aggregation platform combining frontend (Next.js) and backend (Express) in a unified monorepo.
 

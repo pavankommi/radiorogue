@@ -1,4 +1,4 @@
-# RadioRogue Frontend Modernization Plan
+# Radiorogue Frontend Modernization Plan
 
 Generated: 2025-09-04
 
@@ -60,7 +60,7 @@ Use Conventional Commits format: `<type>(<scope>): <message>`
 
 ## Executive Summary
 
-This document outlines a comprehensive upgrade plan for the RadioRogue frontend application after one year of no updates. The project uses Next.js 14, React 18, and Tailwind CSS 3, with several dependencies requiring updates for security, performance, and feature improvements.
+This document outlines a comprehensive upgrade plan for the Radiorogue frontend application after one year of no updates. The project uses Next.js 14, React 18, and Tailwind CSS 3, with several dependencies requiring updates for security, performance, and feature improvements.
 
 ## Current Dependency Analysis
 

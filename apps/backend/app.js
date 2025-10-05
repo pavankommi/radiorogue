@@ -62,7 +62,7 @@ app.use(morgan('dev'));
 
 // Routes
 app.get('/', (req, res) => {
-    res.send('Welcome to RadioRogue!');
+    res.send('Welcome to Radiorogue!');
 });
 
 app.use('/api/blogs', blogRoutes);
